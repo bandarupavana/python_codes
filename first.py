@@ -1,0 +1,8 @@
+name=input()
+age=int(input())
+clg=input()
+aim=input()
+exp_sal=float(input())
+comp=input()
+work=bool(input())
+print(name,age,clg,aim,exp_sal,comp,work)
